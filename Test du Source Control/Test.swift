@@ -9,5 +9,5 @@
 import Foundation
 
 func salut() {
-    print("salut tout le monde, ca va?")
+    print("salut tout le monde, comment ça va?")
 }

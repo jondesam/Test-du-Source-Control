@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("premiere source control")
+        print("2em commit")
         // Do any additional setup after loading the view, typically from a nib.
     }
 

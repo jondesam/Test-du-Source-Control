@@ -10,5 +10,6 @@ import Foundation
 
 func salut() {
     print("salut tout le monde, comment ça va? ca marche pas? c'est bizzare")
+    print("it's third branch thing")
 }
 
